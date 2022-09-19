@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="today">Today</string>
+    <string name="next_fifteen_days">Next 15 Days</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="feels_like">Feels Like #$</string>
+    <string name="dialog_message">Message</string>
+    <string name="dialog_ok">OK</string>
+    <string name="internet_not_available">Internet Not Available</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
